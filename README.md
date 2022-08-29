@@ -1,2 +1,2 @@
-# Top-Project1-Recipes
+# odin-recipes
 My first project in theodinproject.com.
