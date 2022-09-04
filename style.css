@@ -1,0 +1,22 @@
+
+.bold {
+    font-weight: bold;
+}
+
+.title {
+    color: rgb(78, 103, 214);
+    font-family: "Brush Script MT";
+    font-size: 60px;
+}
+
+.list {
+    font-size: 30px;
+}
+
+.img {
+    width: 400px;
+}
+
+.img-remy {
+    width: 550px;
+}
